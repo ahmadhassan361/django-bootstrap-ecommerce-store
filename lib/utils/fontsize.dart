@@ -1,0 +1,3 @@
+const BIG_HEADING_FONT_SIZE = 20.0;
+const HEADING_FONT_SIZE = 16.0;
+const TEXT_FONT_SIZE = 12.0;
